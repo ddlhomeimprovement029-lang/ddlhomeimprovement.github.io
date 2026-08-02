@@ -39,8 +39,10 @@ body {
 }
 
 .logo img {
-    height: 70px;
-    width: auto;
+    width: 120px;
+    height: auto;
+    display: block;
+}
 }
 
 .nav-links {
