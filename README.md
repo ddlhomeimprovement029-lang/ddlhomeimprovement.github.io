@@ -1,9 +1,8 @@
 # DDL Home Improvement
 
-Professional residential plumbing design and home improvement consulting for new construction and remodels.
+Professional Plumbing • Home Improvement • Remodeling
 
-- Permit-ready plan templates
-- Quote form
-- Branded website files
-- Contact: ddlhomeimprovement029@gmail.com
-- Phone: (530) 953-6642
+📞 (530) 953-6642
+📧 ddlhomeimprovement029@gmail.com
+
+Built to Last.
